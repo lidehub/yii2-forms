@@ -1,6 +1,6 @@
 {
   "name": "lidehub/yii2-forms",
-  "description": "yii2 websocket",
+  "description": "yii2 forms",
   "keywords": [
     "yii",
     "yii2",
@@ -10,13 +10,13 @@
   ],
   "authors": [
     {
-      "name": "简言",
+      "name": "lidehub",
       "email": "1543497536@qq.com"
     }
   ],
   "type": "yii2-extension",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/lidehub/yii2-forms",
+  "homepage": "https://github.com/lidehub/yii2-forms.git",
   "require": {
     "php": ">=7.0",
     "yiisoft/yii2": "*"
