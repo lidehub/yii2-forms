@@ -16,7 +16,7 @@
   ],
   "type": "yii2-extension",
   "license": "Apache-2.0",
-  "homepage": "https://github.com/lidehub/yii2-forms.git",
+  "homepage": "https://github.com/lidehub/yii2-forms",
   "require": {
     "php": ">=7.0",
     "yiisoft/yii2": "*"
