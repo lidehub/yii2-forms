@@ -1,0 +1,29 @@
+{
+  "name": "lidehub/yii2-forms",
+  "description": "yii2 websocket",
+  "keywords": [
+    "yii",
+    "yii2",
+    "forms",
+    "php",
+    "lidehub"
+  ],
+  "authors": [
+    {
+      "name": "简言",
+      "email": "1543497536@qq.com"
+    }
+  ],
+  "type": "yii2-extension",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/lidehub/yii2-forms",
+  "require": {
+    "php": ">=7.0",
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "lidehub\\yii2-forms\\": "./src"
+    }
+  }
+}
